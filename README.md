@@ -31,7 +31,7 @@ local computer. If you haven't, do that first. You can find instructions in the 
    environment allows you to isolate this project and install any packages you
    need without affecting the system Python installation. At the terminal, type
    the following command:
-
+hii
         $ virtualenv .venv
 
 2. Activate the virtual environment:
